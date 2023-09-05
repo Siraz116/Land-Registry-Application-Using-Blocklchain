@@ -17,9 +17,6 @@
 5. Flutter
 6. Metamask
 
-## Demo
-Our Dapp is demonstrated in this video [here](https://www.youtube.com/watch?v=9b98c6yuAKY)
-
 
 ## To Run Application Locally
 commands : 
