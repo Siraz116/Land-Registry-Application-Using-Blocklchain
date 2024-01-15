@@ -14,7 +14,8 @@
 
 3. Metamask
 
- ## ![Images](https://drive.google.com/drive/folders/1HFnhLRKPoDzcMh__O2gKz4YO5o4WTyat?usp=sharing)
+## Images
+Shared some screenshoot [Images](https://drive.google.com/drive/folders/1HFnhLRKPoDzcMh__O2gKz4YO5o4WTyat?usp=sharing).
 ## To Run Application Locally
 commands : <br>
 truffle compile <br>
