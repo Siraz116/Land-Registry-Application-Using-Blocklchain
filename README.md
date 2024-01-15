@@ -10,12 +10,13 @@
 4. IPFS is used to store important property registration papers in a secure manner.
 
 ## Technology Stack:
-1. Ethereum Blockchain
-2. Polygon/Matic
-3. Web3Dart
-4. IPFS
-5. Flutter
-6. Metamask
+1. Ethereum Blockchain 
+<!--2. Polygon/Matic
+3. Web3Dart 
+4. IPFS -->
+2. Flutter
+
+3. Metamask
 
 
 ## To Run Application Locally
