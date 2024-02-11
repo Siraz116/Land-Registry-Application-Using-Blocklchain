@@ -1,4 +1,6 @@
 # Land Registry Application using Blockchain
+Developed a decentralized Land Registry application using Blockchain to accelerate the process of registration and provide transparency to the system.  Through Blockchain, it is possible to keep track of how property changes hand to hand. For buyers, sellers, and Government registrars, it is easier to transfer the land ownership from a seller to a new buyer without any intermediaries.  It provides immutability, traceability, and anonymity features which attracts people around the globe to implement its decentralization feature in the land registry process. 
+
 
 ## Problem it Solves:
 1. The elimination of middlemen: The elimination of middlemen or brokers makes land registration less expensive. Brokers who try to defraud uninformed people will be unable to do so any longer. Brokers frequently take a long time to finish procedures, thus our project will help people save time.
@@ -8,11 +10,12 @@
 ## Technology Stack:
 1. Ethereum Blockchain 
 <!--2. Polygon/Matic
-3. Web3Dart 
-4. IPFS -->
+3. Web3Dart -->
+
 2. Flutter
 
 3. Metamask
+4. IPFS 
 
 ## Images
 Shared some screenshots [here](https://drive.google.com/drive/folders/1HFnhLRKPoDzcMh__O2gKz4YO5o4WTyat?usp=sharing).
